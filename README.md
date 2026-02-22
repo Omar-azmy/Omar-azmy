@@ -77,7 +77,7 @@ App Development Intern — Raya Holding
 ## Contact
 
 Email: Omarazmyy@aucegypt.edu  
-LinkedIn: https://linkedin.com/in/omar-azmy  
+LinkedIn: http://linkedin.com/in/omar-azmy-50b987328
 
 ---
 
