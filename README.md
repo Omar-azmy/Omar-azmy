@@ -1,15 +1,19 @@
 <h1 align="center">Omar Azmy</h1>
-<h3 align="center">Computer Engineering Undergraduate | AUC </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/omar-azmy">
-    <img src="https://img.shields.io/badge/LinkedIn-Omar%20Azmy-blue?style=for-the-badge&logo=linkedin" />
+  <strong>Computer Engineering Undergraduate at The American University in Cairo</strong><br/>
+  Software Engineering · Backend Development · Data Engineering
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/omar-azmy-50b987328">
+    <img src="https://img.shields.io/badge/LinkedIn-Omar%20Azmy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Omar-azmy">
-    <img src="https://img.shields.io/badge/GitHub-Omar%20Azmy-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Omar%20Azmy-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:Omarazmyy@aucegypt.edu">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -17,70 +21,25 @@
 
 ## About Me
 
-I enjoy building software systems that are reliable, scalable, and grounded in strong engineering principles.
+I am a Computer Engineering undergraduate interested in building reliable, scalable software systems grounded in strong engineering principles.
 
-My interests include software development, backend development, and data engineering. I’m particularly drawn to understanding the underlying mechanics of software and applying that knowledge to build efficient, production-ready systems.
-
----
+My main interests are software development, backend systems, and data engineering. I enjoy understanding how systems work beneath the surface—then using that knowledge to build efficient, maintainable, production-ready solutions.
 
 ## Technical Skills
 
-**Languages**  
-C++, Python, TypeScript, JavaScript, SQL, HTML, CSS  
+| Category | Technologies |
+| --- | --- |
+| **Languages** | C++, Python, TypeScript, JavaScript, SQL, HTML, CSS |
+| **Frameworks & Tools** | React, Supabase, Firebase, Apache Airflow, dbt, Git |
+| **Backend & Data** | REST APIs, Database Design, Data Pipelines, Lakehouse Architecture |
+| **Core Knowledge** | Data Structures & Algorithms, Software Architecture, Database Systems, Operating Systems, Computer Architecture |
 
-**Frameworks & Technologies**  
-React, Supabase, Firebase, Apache Airflow, dbt, REST APIs, Git  
-
-**Core Areas**  
-Data Structures & Algorithms  
-Software Architecture  
-Database Systems  
-Operating Systems Concepts    
-
----
-
-## Featured Projects
-
-### Hotel Reservation Management System
-Full-stack reservation system with booking engine, admin dashboard, and database integration.
-
-Tech: React, TypeScript, Supabase, REST APIs  
-https://citybusinesshotel.netlify.app
-
----
-
-### 6502 Instruction Set Simulator
-Functional simulator for the 6502 CPU including instruction decoding, execution, and memory emulation.
-
-Tech: C++, Computer Architecture  
-
----
-
-### Quine-McCluskey Logic Minimizer
-Complete implementation of Boolean logic minimization with Verilog generation.
-
-Tech: C++, Algorithms, Digital Logic  
-
----
-
-## Experience
-
-Data Engineering Intern — Orange Egypt  
-• Worked with Apache Airflow, dbt, and production data pipelines  
-• Learned lakehouse architecture and enterprise data workflows  
-
-App Development Intern — Raya Holding  
-• Gained hands-on experience in application development lifecycle and debugging  
-
----
 
 ## Contact
 
-Email: Omarazmyy@aucegypt.edu  
-LinkedIn: http://linkedin.com/in/omar-azmy-50b987328
-
----
+- **Email:** [Omarazmyy@aucegypt.edu](mailto:Omarazmyy@aucegypt.edu)
+- **LinkedIn:** [linkedin.com/in/omar-azmy-50b987328](https://www.linkedin.com/in/omar-azmy-50b987328)
 
 <p align="center">
-  <i>Focused on building scalable software and continuously improving engineering skills.</i>
+  <i>Focused on building scalable software and continuously improving as an engineer.</i>
 </p>
